@@ -19,5 +19,3 @@ This project is featured on the [mediasoup examples page](https://mediasoup.org/
 -   Please run `npx prettier --write .` before to make a PR.
 
 notes : Best to run the project on a linux system as the mediasoup installation could have issues by installing on windows. If you have a windows system consider installing WSL to be able to run it.
-
-[installing wsl on windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
